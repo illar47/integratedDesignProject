@@ -1,0 +1,21 @@
+Circuit: * C:\Users\iroch\OneDrive\Desktop\School_Stuff\ECE2804_IntegratedDesignProject\review_amps_complicated.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Jul 13 16:42:21 2021
+Total elapsed time: 0.088 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2120
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 38
+fillins = 38
+solver = Normal
+Matrix Compiler1: 3.51 KB object code size  0.6/0.3/[0.1]
+Matrix Compiler2: off  [0.2]/0.5/0.3
+
